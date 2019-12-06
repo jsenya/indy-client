@@ -1,4 +1,3 @@
-# indy-client
 Hyperledger Indy Client
 =========
 
