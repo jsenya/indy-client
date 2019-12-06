@@ -1,7 +1,7 @@
 Hyperledger Indy Client
 =========
 
-(https://img.shields.io/badge/npm-v1.0.0-blue)
+[!(https://img.shields.io/badge/npm-v1.0.0-blue)]
 
 A small library which wraps the indy-sdk.
 
