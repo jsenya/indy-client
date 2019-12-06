@@ -1,0 +1,17 @@
+{
+  "name": "@alphablok/indy-client",
+  "version": "1.0.1",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm test"
+  },
+  "keywords": [
+    "npm",
+    "module",
+    "package",
+    "hyperledger indy"
+  ],
+  "author": "obkenobi",
+  "license": "ISC"
+}
